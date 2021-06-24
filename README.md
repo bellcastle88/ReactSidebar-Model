@@ -1,6 +1,6 @@
 # ReactSidebar-Model
 
-This is a ReactNavbar which can see list of sidebar and modal
+This is a ReactSidebar-Model which can see list of sidebar and modal
 
 ## Built with: 
  
